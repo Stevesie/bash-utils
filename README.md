@@ -1,0 +1,3 @@
+# Bash Utils
+
+A collection of command line scripts to help you wrangle data from APIs, CSVs, JSON files, etc...
